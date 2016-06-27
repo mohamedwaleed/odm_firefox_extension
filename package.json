@@ -1,0 +1,13 @@
+{
+  "title": "odm",
+  "name": "odm",
+  "version": "0.0.1",
+  "description": "The extension for integrating open download manger with firefox",
+  "main": "index.js",
+  "author": "Mohamed Waleed",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "open source"
+}
